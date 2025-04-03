@@ -7,7 +7,7 @@ description: >-
 
 # Why are Index Funds in India not as cheap as Vanguard's Index Funds and ETFs?
 
-Before we begin, Total Expense Ratio (TER) is the amount that investors pay to Asset Management Companies (AMCs) for the operative and administrative expenses of managing a mutual fund. If a mutual fund has total assets under management (AUM) of $$ ₹10,000$$ crores and an expense ratio of $$ 1\%$$, it charges $$ ₹100$$ crores as expenses in an year.
+Before we begin, Total Expense Ratio (TER) is the amount that investors pay to Asset Management Companies (AMCs) for the operative and administrative expenses of managing a mutual fund. If a mutual fund has total Assets Under Management (AUM) of $$ ₹10,000$$ crores and an expense ratio of $$ 1\%$$, it charges $$ ₹100$$ crores as expenses in an year.
 
 The difference between regular plans and direct plans of mutual funds is explained in the article linked below. In short, regular plans have an additional cost of distributor commission. This doesn't go to the AMC.
 
