@@ -45,7 +45,7 @@ People might argue that UTI could've reduced their expenses by not spending as m
 
 ### Motilal Oswal S\&P 500 Index Fund
 
-The total AUM of Motilal Oswal S\&P 500 index fund as on 31st March 2021 was $$₹1,088.31$$ crores and its expense ratio has been $$0.49\%$$ since its launch on 28th April 2020. Assuming an average AUM of $$₹504$$ crores, MO would've been able to earn approximately $$₹2.4$$ crores from its S\&P 500 index fund.
+The total AUM of Motilal Oswal (MO) S\&P 500 index fund as on 31st March 2021 was $$₹1,088.31$$ crores and its expense ratio has been $$0.49\%$$ since its launch on 28th April 2020. Assuming an average AUM of $$₹504$$ crores, MO would've been able to earn approximately $$₹2.4$$ crores from its S\&P 500 index fund.
 
 Unfortunately, the scheme financial documents of MO's S\&P 500 fund aren't available yet. It should hopefully be published in the next few months so we can know more about the expense details of MO's S\&P 500 index fund.
 
