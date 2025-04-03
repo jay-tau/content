@@ -15,9 +15,9 @@ The difference between regular plans and direct plans of mutual funds is explain
 [direct-vs-regular.md](direct-vs-regular.md)
 {% endcontent-ref %}
 
-Vanguard's S\&P 500 ETF shares class (VOO) has a TER of $$0.03\%$$ and an AUM of about $$$221$$ billion. This means that it earns about$$$66$$million every year from the ETF shares class. When we combine the AUM from all share classes of Vanguard's S&P 500 fund, the total AUM becomes $$$731.3$$ billion. For reference, the total AUM of the entire Indian mutual fund industry is \$$$431\$$ billion.
+Vanguard's S\&P 500 ETF shares class (VOO) has a TER of $$0.03\%$$ and an AUM of about $$\$221$$ billion. This means that it earns about $$\$66$$ million every year from the ETF shares class. When we combine the AUM from all share classes of Vanguard's S&P 500 fund, the total AUM becomes $$\$731.3$$ billion. For reference, the total AUM of the entire Indian mutual fund industry is $$\$431$$ billion.
 
-In contrast, Kotak Flexicap Fund, one of the largest equity funds in India, has an AUM of $$₹34,115$$ crores and a TER of $$0.64\%$$ which means that the AMC gets about $$₹218$$ crores every year. In terms of dollars, that's \$$$29\$$ million.
+In contrast, Kotak Flexicap Fund, one of the largest equity funds in India, has an AUM of $$₹34,115$$ crores and a TER of $$0.64\%$$ which means that the AMC gets about $$₹218$$ crores every year. In terms of dollars, that's $$\$29$$ million.
 
 ### UTI Nifty Index Fund
 
@@ -61,9 +61,9 @@ The Vanguard S\&P 500 Fund is actually a class of several different funds all co
 | Vanguard 500 Index Fund Admiral Shares (VFIAX)  | $$0.04\%$$ | \$$$399.6\$$ billion    |
 | Vanguard 500 Index Institutional Select (VFFSX) | $$0.01\%$$ | \$$$106.7\$$ billion    |
 
-Each share class has different minimum investment amount requirements and other minor differences. Combined, these share classes have an AUM of $$$731$$ billion. Using the TER and AUM mentioned in the table above, we can come up with an approximate figure of earnings of$$$240\$$ million in the year 2020. The actual amount is probably somewhat lesser since we haven't considered average AUM in this case.
+Each share class has different minimum investment amount requirements and other minor differences. Combined, these share classes have an AUM of $$\$731$$ billion. Using the TER and AUM mentioned in the table above, we can come up with an approximate figure of earnings of$$$240\$$ million in the year 2020. The actual amount is probably somewhat lesser since we haven't considered average AUM in this case.
 
-The total expenses of Vanguard S\&P 500 fund across all of its share classes was $$$184$$ million. This means that Vanguard earned only about$$$50\$$ million in profit.
+The total expenses of Vanguard S\&P 500 fund across all of its share classes was $$\$184$$ million. This means that Vanguard earned only about $$\$50$$ million in profit.
 
 It should be kept in mind that Vanguard itself is structured differently than most AMCs and the company is owned by the investors in its funds. It was founded by the father of index investing, Jack Bogle, who was a proponent of low cost index investing. It would be fair to say that we haven't had any AMCs similar to Vanguard or influential index investing pioneers in India yet.
 
