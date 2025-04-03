@@ -61,7 +61,7 @@ The Vanguard S\&P 500 Fund is actually a class of several different funds all co
 | Vanguard 500 Index Fund Admiral Shares `VFIAX`  | $$0.04\%$$ | $$\$399.6$$ billion     |
 | Vanguard 500 Index Institutional Select `VFFSX` | $$0.01\%$$ | $$\$106.7$$ billion     |
 
-Each share class has different minimum investment amount requirements and other minor differences. Combined, these share classes have an AUM of $$\$731$$ billion. Using the TER and AUM mentioned in the table above, we can come up with an approximate figure of earnings of$$$240\$$ million in the year 2020. The actual amount is probably somewhat lesser since we haven't considered average AUM in this case.
+Each share class has different minimum investment amount requirements and other minor differences. Combined, these share classes have an AUM of $$\$731$$ billion. Using the TER and AUM mentioned in the table above, we can come up with an approximate figure of earnings of $$\$240$$ million in the year 2020. The actual amount is probably somewhat lesser since we haven't considered average AUM in this case.
 
 The total expenses of Vanguard S\&P 500 fund across all of its share classes was $$\$184$$ million. This means that Vanguard earned only about $$\$50$$ million in profit.
 
