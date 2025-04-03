@@ -15,7 +15,7 @@ The difference between regular plans and direct plans of mutual funds is explain
 [direct-vs-regular.md](direct-vs-regular.md)
 {% endcontent-ref %}
 
-Vanguard's S\&P 500 Exchange-Traded Fund (ETF) shares class (`VOO`) has a TER of $$0.03\%$$ and an AUM of about $$\$221$$ billion. This means that it earns about $$\$66$$ million every year from the ETF shares class. When we combine the AUM from all share classes of Vanguard's S&P 500 fund, the total AUM becomes $$\$731.3$$ billion. For reference, the total AUM of the entire Indian mutual fund industry is $$\$431$$ billion.
+Vanguard's S\&P 500 ETF shares class (`VOO`) has a TER of $$0.03\%$$ and an AUM of about $$\$221$$ billion. This means that it earns about $$\$66$$ million every year from the ETF shares class. When we combine the AUM from all share classes of Vanguard's S&P 500 fund, the total AUM becomes $$\$731.3$$ billion. For reference, the total AUM of the entire Indian mutual fund industry is $$\$431$$ billion.
 
 In contrast, Kotak Flexicap Fund, one of the largest equity funds in India, has an AUM of $$₹34,115$$ crores and a TER of $$0.64\%$$ which means that the AMC gets about $$₹218$$ crores every year. In terms of dollars, that's $$\$29$$ million.
 
